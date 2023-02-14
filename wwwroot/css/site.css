@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+html {
+  font-size: 14px;
+} 
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Index */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bgIndex {
+  position: relative;
+  background-color: transparent;
+}
+
+.bgIndex::before {
+  content: "";
+  position: absolute;
+  width: 2800px;
+  height: 550px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  background-image: url('../imgs/IndexBgGradient.jpg');
+  background-size: cover;
+}
+
+.logoIndex {
+  height:400px;
+}
+
+.imgIndex {
+  width: 450px;
+}
+
+.btn:hover {
+  background-color: rgb(208, 96, 114);
+  border: white;
+}
+
+.btn2:hover {
+  background-color: antiquewhite;
+  border:antiquewhite;
+}
+
+.roundedCorners {
+  border-radius: 50px;
+  width: 350px;
+  background-color: rgb(230, 235, 234);
+}
+
+.textColorIndex {
+  color: rgb(210, 125, 60);
+}
+
+.margin2 {
+  padding-left: 0px;
+}
+
+/* Signin */
+
+.logoSignin {
+  height: 100px;
+}
+
+.btnSignin {
+  background-color:rgb(210, 125, 60)
+}
+
+/* Dashboard */
+
+.logoHorizontal {
+  width: 200px;
+}
+
+.sideNavHeight {
+  margin-bottom: 600px;
+}
+
+.bgColor {
+  background-color: rgb(249, 245, 242);
+}
+
+.btnDashboard {
+  width: 400px;
+  height: 300px;
+  border-radius: 10%;
+  margin: 20px;
+  text-align: center;
+  font-size: 28pt;
+  font-family: 'Open Sans', sans-serif;
+  border: none;
+  /* background-image: url('../imgs/IndexBgGradient.jpg');
+  background-size: cover; */
+  background-color: white;
+}
+
+.btnDashboard2 {
+  width: 840px;
+  height: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 28pt;
+  font-family: 'Open Sans', sans-serif;
+  border: none;
+  /* background-image: url('../imgs/IndexBgGradient.jpg');
+  background-size: cover;
+  background-position: center; */
+  background-color: white;
+}
+
+.textWhite {
+  color: white;
+}
+
+.oneImg {
+  height: 300px;
+}

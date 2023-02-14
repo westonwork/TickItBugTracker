@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+
+@model User
+<div class="d-flex justify-content-center m-4">
+    <img src="~/imgs/LogoH1NoBg.png" class="logoSignin" alt="Logo">
+</div>
+<div class="text-center d-flex justify-content-center">
+    @* Login *@
+    <div class="flex-1 m-3 border p-4 roundedCorners h-100">
+        @await Html.PartialAsync("_Login")
+    </div>
+    @* Register *@
+    <div class="flex-1 m-3 border p-4 roundedCorners">
+        @await Html.PartialAsync("_Register")
+    </div>
+</div>

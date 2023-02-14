@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TickItBugTracker
+build_property.RootNamespace = TickItBugTracker
+build_property.ProjectDir = /Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Shared/_InnerLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Jbm5lckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Tickets/EditTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9FZGl0VGlja2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Tickets/MyTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9NeVRpY2tldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Tickets/NewTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9OZXdUaWNrZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Tickets/OneTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9PbmVUaWNrZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Tickets/Tickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlja2V0cy9UaWNrZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Users/Signin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvU2lnbmluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Users/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Users/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7xjoqvi3kb
