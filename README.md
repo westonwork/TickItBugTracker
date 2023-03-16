@@ -8,7 +8,7 @@ I designed this app with 2 goals in mind:
 
   1. Minimalist Design Style
 
-     Since tackling bugs can be stressful for the developer, I wanted to incorporate a minimalist design to the app with a heavy use of whites and clean simple lines. The navigation page is simple to allow the developer to leave it open on a screen and not feel cluttered or chaotic, but invoke a sense of calm and order. 
+     Since tackling bugs can be stressful for the developer, I wanted to incorporate a minimalist design to the app with a heavy use of whites and clean simple lines. The navigation page is simple to allow the developer to leave it open on a screen and not feel cluttered or chaotic, but invoke a sense of calm and order. Fun fact: the app name is a play on words... Tick as in the type of bug! 
     
   2. User Features
   
