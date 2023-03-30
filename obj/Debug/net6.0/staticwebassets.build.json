@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a11js2HJAi+aQHLOoV18gmiRoY1aASI3MlHg4B+lhSo=",
+  "Hash": "yUIEyXvWjEZkikYYbM3oeM4df5wVrP9zChNnlpiaty0=",
   "Source": "TickItBugTracker",
   "BasePath": "_content/TickItBugTracker",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/wwwroot/imgs/.DS_Store",
+      "SourceId": "TickItBugTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/wwwroot/",
+      "BasePath": "_content/TickItBugTracker",
+      "RelativePath": "imgs/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imgs/.DS_Store"
     },
     {
       "Identity": "/Users/emilyweston/Desktop/dojo_assignments/csharp/project/TickItBugTracker/wwwroot/imgs/IndexBgGradient.jpg",
